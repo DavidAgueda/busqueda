@@ -131,5 +131,7 @@ function getSslPage($url) {
 }
 
         ?>
+        
+        ver esto http://blog.jorgeivanmeza.com/2009/03/busquedas-en-google-search-desde-php/
     </body>
 </html>
